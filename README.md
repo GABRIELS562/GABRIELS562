@@ -9,8 +9,8 @@ About Me
 With a solid foundation in Forensic Science, I bring a unique analytical mindset and problem-solving skills to the world of web development. My career shift is fueled by a passion for technology and a desire to build innovative and impactful software solutions.
 
 🎓 Education: Bsc in Biotechnology<br>
-             Msc in Business Leadership<br>
-    Current: Software development, focusing on front-end technologies.
+          🎓  Msc in Business Leadership<br>
+    🎓 Current: Software development, focusing on front-end technologies.
 
 
 🧪 Background: Over 16 years of experience in forensic science, specializing in forensic biology.
