@@ -5,6 +5,7 @@ Welcome to My GitHub Profile!
 👋 Hi there! I'm Jaime Gabriels, a former Forensic Scientific Analyst turned aspiring Software Engineer. Welcome to my journey of coding, creating, and continuous learning. 🚀
 
 About Me
+
 With a solid foundation in Forensic Science, I bring a unique analytical mindset and problem-solving skills to the world of web development. My career shift is fueled by a passion for technology and a desire to build innovative and impactful software solutions.
 
 🎓 Education: Currently studying Software engineering, focusing on front-end technologies.
