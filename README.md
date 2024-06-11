@@ -11,7 +11,7 @@ With a solid foundation in Forensic Science, I bring a unique analytical mindset
 🎓 Education: Currently studying Software engineering, focusing on front-end technologies.
 
 
-🧪 Background: Over 18 years of experience in forensic science, specializing in forensic biology.
+🧪 Background: Over 16 years of experience in forensic science, specializing in forensic biology.
 
 💻 Interests: Web development, cybersecurity, Dev Ops, and tech innovations. These are fields I have been doing extensive research on while i have started my journey in coding. 
 
