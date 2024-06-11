@@ -8,7 +8,9 @@ About Me
 
 With a solid foundation in Forensic Science, I bring a unique analytical mindset and problem-solving skills to the world of web development. My career shift is fueled by a passion for technology and a desire to build innovative and impactful software solutions.
 
-🎓 Education: Currently studying Software engineering, focusing on front-end technologies.
+🎓 Education: Bsc in Biotechnology.
+             Msc in Business Leadership
+    Current: Software development, focusing on front-end technologies.
 
 
 🧪 Background: Over 16 years of experience in forensic science, specializing in forensic biology.
@@ -34,13 +36,12 @@ Git & GitHub
 VS Code
 
 Forensic Science Expertise
-
 Data Analysis
 Scientific Research
 Problem-Solving
 Critical Thinking
 
-Projects
+Projects:
 Codespace SDF 1-9
 Description: A brief description of your project. 
 
