@@ -43,7 +43,8 @@ Critical Thinking
 
 Projects:
 Codespace SDF 1-9
-Description: A brief description of your project. 
+Description: 
+
 
 Technologies: HTML, CSS, JavaScript, React
 Features: Responsive design, API integration, user authentication.
@@ -52,8 +53,7 @@ Features: Responsive design, API integration, user authentication.
 Goals and Ambitions
 As I transition into Software Engineering, my primary goal is to harness my analytical skills from forensic science to develop robust, secure, and user-friendly web applications. I am particularly interested in:
 
-🌐 Full-Stack Development: Building complete web applications from the ground up.
-🔒 Cybersecurity: Applying forensic skills to enhance web application security.
+
 
 LinkedIn: Your LinkedIn Profile: N/A
 
