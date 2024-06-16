@@ -1,5 +1,6 @@
-## Hi there 👋 <h1>Hi there! <span class="wave">👋</span></h1>
-+I am Gabriels563
+## Hi there <img alt="Waving hand emoji" src="https://github.com/nelsonwenner/nelsonwenner/blob/master/waving-hand-emoji-animated.gif?raw=true" width="24px" height="24px">
+
+I am Gabriels563
 
 
 Welcome to My GitHub Profile!
