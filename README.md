@@ -13,55 +13,56 @@ With a solid foundation in Science, I bring a unique analytical mindset and prob
 🎓 Current: Software development, focusing on front-end technologies.
 
 
-Background: Over 16 years of experience in natural science, specializing in forensic biology.
+Background: Over 16 years of experience in natural science :test_tube:, specializing in forensic biology :drop_of_blood:.
 
 💻 Interests: Software Development, Cybersecurity, Dev Ops, and tech innovations. I have been doing extensive research on these fields while I have started my journey in coding. 
 
-Skills
-Programming Languages & Tools (pending) 
-
-Frontend:
-HTML5 ![image](https://github.com/GABRIELS562/GABRIELS562/assets/63159064/25081976-2748-4a0b-90db-36b4517e5ab0)
-
-CSS3 ![image](https://github.com/GABRIELS562/GABRIELS562/assets/63159064/4824f1de-f710-4a99-8679-970cfa4b2d26)
-
-JavaScript ![image](https://github.com/GABRIELS562/GABRIELS562/assets/63159064/b5fae7ac-0f44-46c9-a4c0-0a92fed705dd)
-
-Bootstrap ![image](https://github.com/GABRIELS562/GABRIELS562/assets/63159064/db497bf1-9c88-46da-b98a-309ecf345c7c)
-
-
-Backend:
-Node.js
-Express.js
-MongoDB
+:toolbox: Skills
+Programming Languages & Tools (Pending)<br> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Yailwind Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/>
 
 Other:
-Git & GitHub 
-VS Code
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 
-Forensic Science Expertise
-Data Analysis
-Scientific Research
-Problem-Solving
-Critical Thinking
-
-Projects:
-Codespace SDF 1-9
-Description: 
-
-
-Technologies: HTML, CSS, JavaScript, React
-Features: Responsive design, API integration, user authentication.
-
+Scientific Research<br>
+Problem-Solving<br>
+Critical Thinking<br>
 
 Goals and Ambitions
 As I transition into Software Engineering, my primary goal is to harness my analytical skills from forensic science to develop robust, secure, and user-friendly web applications. I am particularly interested in:
 
+Showcasing Projects<br>
+Contribute to Open Source<br>
+Join Projects<br>
+Learning and Growth<br>
+Experiment with New Technologies<br>
+Build a Professional Network<br>
+Collaborate with Others<br>
+Enhance Employability<br>
+Community Engagement<br>
+Develop Best Practices<br>
+
+------------------
+<span style="font-size:0.5em;">Projects:<br>
+Codespace SDF 1-9 (Update)<br> 
+Description: (Update)
+Technologies: HTML, CSS, JavaScript, React
+Features: Responsive design, API integration, user authentication.</span>
+
+------------------
 
 
-LinkedIn: Your LinkedIn Profile: N/A
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Gmail" width="80" height="80"/>
+<img src="https://thumbs.dreamstime.com/z/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg?ct=jpeg" alt="Gmail" width="50" height="50"/>
 
-Email: jgabriels26@gmail.com
+
+
 
 Thank you for visiting my GitHub profile. Let's build something amazing together!
 
