@@ -1,4 +1,5 @@
-## Hi there 👋 I am Gabriels563
+## Hi there 👋 <h1>Hi there! <span class="wave">👋</span></h1>
++I am Gabriels563
 
 
 Welcome to My GitHub Profile!
@@ -6,14 +7,14 @@ Welcome to My GitHub Profile!
 
 About Me
 
-With a solid foundation in Forensic Science, I bring a unique analytical mindset and problem-solving skills to the world of web development. My career shift is fueled by a passion for technology and a desire to build innovative and impactful software solutions.
+With a solid foundation in Science, I bring a unique analytical mindset and problem-solving skills to the world of web development. My career shift is fueled by a passion for technology and a desire to build innovative and impactful software solutions.
 
 🎓 Education: Bsc in Biotechnology<br>
           🎓  Msc in Business Leadership<br>
     🎓 Current: Software development, focusing on front-end technologies.
 
 
-🧪 Background: Over 16 years of experience in forensic science, specializing in forensic biology.
+🧪 Background: Over 16 years of experience in natural science, specializing in forensic biology.
 
 💻 Interests: Software Development, cybersecurity, Dev Ops, and tech innovations. I have been doing extensive research on these fields while I have started my journey in coding. 
 
