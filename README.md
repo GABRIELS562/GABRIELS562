@@ -18,7 +18,7 @@ Background: Over 16 years of experience in natural science :test_tube:, speciali
 💻 Interests: Software Development, Cybersecurity, Dev Ops, and tech innovations. I have been doing extensive research on these fields while I have started my journey in coding. 
 
 :toolbox: Skills
-Programming Languages & Tools (Pending)<br> 
+Programming Languages & Tools<br> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Yailwind Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="50" height="50"/>
