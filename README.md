@@ -50,8 +50,7 @@ Develop Best Practices<br>
 
 ------------------
 <span style="font-size:0.5em;">Projects:<br>
-Codespace SDF 1-9 (Update)<br> 
-Description: (Update)
+Please see GitHub repositories <br> 
 Technologies: HTML, CSS, JavaScript, React
 Features: Responsive design, API integration, user authentication.</span>
 
