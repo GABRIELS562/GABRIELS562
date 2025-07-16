@@ -1,69 +1,96 @@
-## Hi there <img alt="Waving hand emoji" src="https://github.com/nelsonwenner/nelsonwenner/blob/master/waving-hand-emoji-animated.gif?raw=true" width="24px" height="24px"> I am Gabriels563
-Welcome to My GitHub Profile!
+ Here's a more authentic and professional rewrite:
 
-A former Forensic Scientific Analyst 🔬 turned aspiring Software developer. Welcome to my journey of coding, creating, and continuous learning. 🚀
+---
 
-About Me
+## Hi there <img alt="Waving hand emoji" src="https://github.com/nelsonwenner/nelsonwenner/blob/master/waving-hand-emoji-animated.gif?raw=true" width="24px" height="24px"> I am Jaime Gabriels
 
-With a solid foundation in Science, I bring a unique analytical mindset and problem-solving skills to the world of web development. My career shift is fueled by a passion for technology and a desire to build innovative and impactful software solutions.
+**Welcome to My GitHub Profile!**
 
- Education: 📚 <br>
-🎓 Bsc in Biotechnology<br>
-🎓 Msc in Business Leadership<br>
-🎓 Current: Software development, focusing on front-end technologies.
+**Forensic Scientist Transitioning to DevOps Engineer** 🔬 ➡️ ⚙️
 
+Bringing 15+ years of analytical expertise and systematic problem-solving from forensic science to the world of infrastructure automation and DevOps practices. 🚀
 
-Background: Over 16 years of experience in natural science :test_tube:, specializing in forensic biology :drop_of_blood:.
+## About Me
+With extensive experience in forensic analysis and business leadership, I'm applying my analytical mindset and systematic approach to master DevOps engineering. My unique background in regulated laboratory environments provides valuable perspective on compliance, documentation, and process optimization.
 
-💻 Interests: Software Development, Cybersecurity, Dev Ops, and tech innovations. I have been doing extensive research on these fields while I have started my journey in coding. 
+**Background:** 15+ years in forensic biology with the South African Police Service Forensic Science Lab, currently at LabScientific DNA paternity testing lab processing samples and designing/implementing functional LIMS systems.
 
-:toolbox: Skills
-Programming Languages & Tools<br> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Yailwind Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/>
+**Education:** 📚  
+🎓 BSc in Biotechnology  
+🎓 MSc in Business Leadership (UNISA School of Business Leadership)  
+🎓 DevOps Engineering - Currently building expertise through hands-on projects and certifications
 
-Other:
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
+## 🏆 Certifications & Learning Path
+- ✅ **AWS Solutions Architect Associate (SAA)**
+- ✅ **Certified Kubernetes Administrator (CKA)**
+- ✅ **Linux Foundation Certified System Administrator (LFCS)**
+- ✅ **Terraform Certification**
+- ✅ **Software Engineering Bootcamp**
+- ✅ **Docker, Ansible, GitLab/Jenkins, Prometheus/Grafana, ELK Stack, ArgoCD Courses**
 
-Scientific Research<br>
-Problem-Solving<br>
-Critical Thinking<br>
+## 🛠️ DevOps Technologies I'm Working With
 
-Goals and Ambitions
-As I transition into Software Engineering, my primary goal is to harness my analytical skills from forensic science to develop robust, secure, and user-friendly web applications. I am particularly interested in:
+**Cloud Platforms:**  
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 
-Showcasing Projects<br>
-Contribute to Open Source<br>
-Join Projects<br>
-Learning and Growth<br>
-Experiment with New Technologies<br>
-Build a Professional Network<br>
-Collaborate with Others<br>
-Enhance Employability<br>
-Community Engagement<br>
-Develop Best Practices<br>
+**Containerization & Orchestration:**  
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
 
-------------------
-<span style="font-size:0.5em;">Projects:<br>
-Please see GitHub repositories <br> 
-Technologies: HTML, CSS, JavaScript, React
-Features: Responsive design, API integration, user authentication.</span>
+**Infrastructure as Code:**  
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="50" height="50"/>
 
-------------------
+**CI/CD:**  
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" alt="ArgoCD" width="50" height="50"/>
 
+**Monitoring & Observability:**  
+<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="50" height="50"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Gmail" width="80" height="80"/>
-<img src="https://thumbs.dreamstime.com/z/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg?ct=jpeg" alt="Gmail" width="50" height="50"/>
+**Version Control & Development:**  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
+## 🎯 What I'm Learning & Building
+- Developing expertise in CI/CD pipeline design and automation
+- Building infrastructure-as-code solutions using Terraform and Ansible
+- Learning container orchestration with Kubernetes
+- Implementing monitoring and observability solutions
+- Exploring cloud architecture patterns and security best practices
 
+## 🔬 My Unique Value Proposition
+**Forensic Mindset in DevOps:** My background in forensic investigation brings unique strengths to DevOps:
+- **Systematic Problem-Solving:** Methodical approach to troubleshooting and root cause analysis
+- **Compliance & Documentation:** Deep understanding of regulatory requirements and audit trails
+- **Risk Assessment:** Analytical approach to identifying and mitigating system vulnerabilities
+- **Business Perspective:** MBA background enables alignment of technical solutions with business objectives
 
+## 📊 Featured Projects
 
-Thank you for visiting my GitHub profile. Let's build something amazing together!
+**1. Laboratory Information Management System (LIMS)**  
+Production system for LabScientific DNA paternity testing lab - designed and implemented functional LIMS for sample processing operations, demonstrating real-world systems thinking and database management.
 
+**2. Zero-Downtime Pipeline Project**  
+Advanced DevOps learning project applying forensic investigation methodology to deployment processes. Demonstrates understanding of high-availability systems, compliance requirements, and business impact considerations across finance and pharmaceutical use cases.
 
+**3. Compliance Automation Platform**  
+Comprehensive DevOps solution focusing on automated compliance for regulated industries. Showcases ability to translate regulatory requirements (FDA 21 CFR Part 11, SOX, PCI-DSS) into technical solutions with audit trails and risk management.
 
+## 🌟 Career Transition Goals
+- Apply analytical skills from forensic science to DevOps challenges
+- Build expertise in cloud-native technologies and automation
+- Contribute to teams requiring compliance and regulatory knowledge
+- Leverage business acumen to drive technical decisions that align with organizational goals
+
+---
+
+**"Bringing scientific rigor and analytical thinking to modern infrastructure challenges"**
+
+---
+
+This version is honest about your transition while highlighting your impressive cert stack and unique value proposition. You sound professional and capable without overselling! 
