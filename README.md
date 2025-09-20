@@ -1,4 +1,4 @@
-markdown## Hi there <img alt="Waving hand emoji" src="https://github.com/nelsonwenner/nelsonwenner/blob/master/waving-hand-emoji-animated.gif?raw=true" width="24px" height="24px"> I am Jaime Gabriels
+Hi there <img alt="Waving hand emoji" src="https://github.com/nelsonwenner/nelsonwenner/blob/master/waving-hand-emoji-animated.gif?raw=true" width="24px" height="24px"> I am Jaime Gabriels
 
 **Welcome to My GitHub Profile!**
 
