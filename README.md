@@ -1,3 +1,4 @@
+```markdown
 # Hi there 👋 I am Jaime Gabriels
 ## Welcome to My GitHub Profile!
 
@@ -9,43 +10,43 @@ Successfully transitioned from 15+ years in forensic DNA analysis to DevOps engi
 
 With extensive experience in forensic analysis and business leadership, I've successfully built production DevOps infrastructure serving live applications. My unique background in regulated laboratory environments provides invaluable perspective on compliance, documentation, and audit-ready systems.
 
-**Background:** 15+ years in forensic biology with the South African Police Service Forensic Science Lab, currently at LabScientific DNA paternity testing lab while building production DevOps infrastructure processing 200+ samples/hour through automated pipelines.
+**Background:** 15+ years in forensic biology with the South African Police Service Forensic Science Lab, currently at LabScientific DNA paternity testing lab while building production DevOps infrastructure processing 120+ samples/hour through automated pipelines.
 
 ## Education 📚
 - 🎓 BSc in Biotechnology
-- 🎓 MSc in Business Leadership (UNISA School of Business Leadership)
+- 🎓 MSc in Business Leadership (UNISA School of Business Leadership)  
 - 🎓 Software Development Bootcamp - Completed
 - 🎓 DevOps Engineering - Proven through production deployments and live infrastructure
 
 ## 🏆 Certifications & Achievements
 - ✅ AWS Solutions Architect Associate (SAA) - Certified
 - ✅ Terraform Associate - Certified
-- ✅ Production Infrastructure - 3 live applications with 99.9% uptime
+- ✅ Production Infrastructure - 3 live applications with monitoring and alerting
 - ✅ GitOps Implementation - ArgoCD with zero-downtime deployments
 - ✅ Forensic Monitoring - Unique compliance monitoring system on AWS
 - 🔄 Certified Kubernetes Administrator (CKA) - In Progress
-- 🔄 CKA Certified Security Specialist - In Progress (Expected: January 2026)
+- 🔄 Certified Kubernetes Security Specialist (CKS) - In Progress (Expected: January 2026)
 
 ## 🛠️ DevOps Technologies (Production Experience)
 
-**Cloud & Infrastructure:**
+**Cloud & Infrastructure:**  
 AWS | Terraform | Linux
 
-**Containerization & Orchestration:**
-Docker | Kubernetes
+**Containerization & Orchestration:**  
+Docker | Kubernetes (K3s)
 
-**CI/CD & GitOps:**
+**CI/CD & GitOps:**  
 Jenkins | ArgoCD | Git
 
-**Monitoring & Observability:**
-Prometheus | Grafana
+**Monitoring & Observability:**  
+Prometheus | Grafana | Loki
 
-**Languages & Databases:**
+**Languages & Databases:**  
 Python | Node.js | React | PostgreSQL
 
 ## 🎯 Production Infrastructure Built
 - **3-Tier Architecture:** K3s production cluster + Monitoring stack + AWS EC2 forensic system
-- **Live Applications:** LIMS (200+ samples/hour), Finance Trading, Pharma Manufacturing
+- **Live Applications:** LIMS (120+ samples/hour), Finance Trading, Pharma Manufacturing
 - **Zero-Downtime Deployments:** 2-replica high availability with ArgoCD GitOps
 - **Complete Observability:** Prometheus, Grafana, Loki with custom dashboards
 - **CI/CD Pipelines:** Jenkins automated builds with Docker registry
@@ -64,16 +65,16 @@ Python | Node.js | React | PostgreSQL
 ## 📊 Featured Production Projects
 
 ### 1. Laboratory Information Management System (LIMS)
-**Live at:** lims.jagdevops.co.za
+**Live at:** [lims.jagdevops.co.za](https://lims.jagdevops.co.za)
 
-Production DNA sample tracking system processing 200+ forensic samples/hour through 12-stage pipeline. Features automated workflow, real-time monitoring, PostgreSQL persistence, and Jenkins CI/CD.
+Production DNA sample tracking system processing 120+ forensic samples/hour through 12-stage pipeline. Features automated workflow, real-time monitoring, PostgreSQL persistence, and Jenkins CI/CD.
 
 **Tech Stack:** React • Node.js • PostgreSQL • K3s • Docker • Jenkins
 
 ### 2. Zero-Downtime Deployment Pipeline
-**Live at:** finance.jagdevops.co.za | pharma.jagdevops.co.za
+**Live at:** [finance.jagdevops.co.za](https://finance.jagdevops.co.za) | [pharma.jagdevops.co.za](https://pharma.jagdevops.co.za)
 
-Production GitOps implementation achieving 100% uptime with 2-replica high availability. Proven <60 second recovery from incidents. Finance trading and pharma manufacturing systems with ArgoCD automated sync.
+Production GitOps implementation with 2-replica high availability. Demonstrated <60 second recovery from incidents. Finance trading and pharma manufacturing systems with ArgoCD automated sync.
 
 **Tech Stack:** Python • FastAPI • Flask • K3s • ArgoCD • PostgreSQL
 
@@ -107,7 +108,8 @@ Production (Server1)     Monitoring (Server2)      Forensic (AWS EC2)
 *"From analyzing DNA evidence to building resilient infrastructure - bringing forensic rigor to DevOps"*
 
 ## 📫 Let's Connect:
-- 💼 **LinkedIn:** www.linkedin.com/in/jaime-gabriels-643132386
-- 🌐 **Portfolio:** www.jagdevops.com
+- 💼 **LinkedIn:** [www.linkedin.com/in/jaime-gabriels-643132386](https://www.linkedin.com/in/jaime-gabriels-643132386)
+- 🌐 **Portfolio:** [www.jagdevops.com](https://www.jagdevops.com)
 - 📧 **Email:** contact@jagdevops.com
-- 🔗 **Live Infrastructure:** lims.jagdevops.co.za | finance.jagdevops.co.za | pharma.jagdevops.co.za
+- 🔗 **Live Infrastructure:** [lims.jagdevops.co.za](https://lims.jagdevops.co.za) | [finance.jagdevops.co.za](https://finance.jagdevops.co.za) | [pharma.jagdevops.co.za](https://pharma.jagdevops.co.za)
+```
