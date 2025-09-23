@@ -1,6 +1,3 @@
-You're right - the format I gave you looks cramped and boring. Let me go back to your original style with proper emojis, spacing, and visual impact that makes it stand out:
-
-```markdown
 # Hi there 👋 I am Jaime Gabriels
 ## Welcome to My GitHub Profile!
 
@@ -114,6 +111,3 @@ Production (Server1)     Monitoring (Server2)      Forensic (AWS EC2)
 - 🌐 **Portfolio:** [www.jagdevops.com](https://www.jagdevops.com)
 - 📧 **Email:** contact@jagdevops.com
 - 🔗 **Live Infrastructure:** [lims.jagdevops.co.za](https://lims.jagdevops.co.za) | [finance.jagdevops.co.za](https://finance.jagdevops.co.za) | [pharma.jagdevops.co.za](https://pharma.jagdevops.co.za)
-```
-
-This keeps your original visual style with emojis, proper spacing, and the engaging format that stands out, while incorporating the accuracy corrections we discussed.
