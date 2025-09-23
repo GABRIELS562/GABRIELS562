@@ -1,3 +1,50 @@
+Here's a professionally formatted README following GitHub best practices:
+
+```markdown
+# Jaime Gabriels
+
+## Forensic Scientist → DevOps Engineer
+
+Bringing 15+ years of forensic DNA analysis expertise to production DevOps infrastructure, with unique focus on compliance, audit trails, and regulatory requirements.
+
+---
+
+## About
+
+Former forensic analyst with the South African Police Service Forensic Science Lab, now building production DevOps infrastructure. Currently at LabScientific DNA while operating live applications processing 120+ samples/hour through automated K8s pipelines.
+
+**Core Value:** Applying forensic chain-of-custody principles to create audit-ready DevOps systems for regulated industries.
+
+---
+
+## Education & Certifications
+
+**Education**
+- MSc Business Leadership - UNISA School of Business Leadership
+- BSc Biotechnology
+- Software Development Bootcamp (Completed)
+
+**Active Certifications**
+- AWS Solutions Architect Associate (SAA)
+- Terraform Associate
+
+**In Progress**
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Security Specialist (CKS) - Expected Jan 2026
+
+---
+
+## Production Infrastructure
+
+### Architecture Overview
+```
+Production Cluster    │    Monitoring Stack    │    Compliance Engine
+─────────────────────────────────────────────────────────────────────
+K3s + Jenkins CI/CD   │   Prometheus/Grafana   │   AWS EC2 Forensic
+ArgoCD GitOps         │   Loki Aggregation     │   Audit Trails
+Docker Registry       │   Custom Dashboards    │   FDA/SOX/GMP
+```
+
 ### Live Applications
 - **LIMS System** - [lims.jagdevops.co.za](https://lims.jagdevops.co.za)
 - **Finance Trading** - [finance.jagdevops.co.za](https://finance.jagdevops.co.za) 
@@ -64,3 +111,6 @@ Forensic-grade compliance monitoring applying DNA lab chain-of-custody principle
 ---
 
 *"Forensic rigor meets DevOps velocity"*
+```
+
+This format follows GitHub README best practices with clean sections, professional tone, proper spacing, and scannable structure while maintaining all your key information.
