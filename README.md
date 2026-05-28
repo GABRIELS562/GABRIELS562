@@ -20,6 +20,6 @@ Forensic scientist turned infrastructure engineer. Background in regulated labor
 
 ---
 
-**Certs:** AWS SAA · Terraform Associate · CKA (in progress)
+**Certs:** AWS SAA · Terraform Associate · CKA
 
 **Stack:** Kubernetes · ArgoCD · Docker · GitHub Actions · Terraform · Prometheus · Grafana · Vault
