@@ -1,113 +1,112 @@
-# Hi there 👋 I am Jaime Gabriels
-## Welcome to My GitHub Profile!
+# Hi there, I'm Jaime Gabriels
 
-### Forensic Scientist Turned DevOps Engineer 🔬 ➡️ ⚙️
+**DevOps Engineer** | Forensic Scientist Background | Cape Town, South Africa
 
-Successfully transitioned from 15+ years in forensic DNA analysis to DevOps engineering, bringing unique chain-of-custody and compliance expertise to infrastructure automation. 🚀
-
-## About Me
-
-With extensive experience in forensic analysis and business leadership, I've successfully built production DevOps infrastructure serving live applications. My unique background in regulated laboratory environments provides invaluable perspective on compliance, documentation, and audit-ready systems.
-
-**Background:** 15+ years in forensic biology with the South African Police Service Forensic Science Lab, currently at LabScientific DNA paternity testing lab while building production DevOps infrastructure processing 120+ samples/hour through automated pipelines.
-
-## Education 📚
-- 🎓 BSc in Biotechnology
-- 🎓 MSc in Business Leadership (UNISA School of Business Leadership)  
-- 🎓 Software Development Bootcamp - Completed
-- 🎓 DevOps Engineering - Proven through production deployments and live infrastructure
-
-## 🏆 Certifications & Achievements
-- ✅ AWS Solutions Architect Associate (SAA) - Certified
-- ✅ Terraform Associate - Certified
-- ✅ Production Infrastructure - 3 live applications with monitoring and alerting
-- ✅ GitOps Implementation - ArgoCD with zero-downtime deployments
-- ✅ Forensic Monitoring - Unique compliance monitoring system on AWS
-- 🔄 Certified Kubernetes Administrator (CKA) - In Progress
-- 🔄 Certified Kubernetes Security Specialist (CKS) - In Progress (Expected: January 2026)
-
-## 🛠️ DevOps Technologies (Production Experience)
-
-**Cloud & Infrastructure:**
-AWS | Terraform | Linux
-
-**Containerization & Orchestration:**
-Docker | Kubernetes (K3s)
-
-**CI/CD & GitOps:**
-Jenkins | ArgoCD | Git
-
-**Monitoring & Observability:**
-Prometheus | Grafana | Loki
-
-**Languages & Databases:**
-Python | Node.js | React | PostgreSQL
-
-## 🎯 Production Infrastructure Built
-- **3-Tier Architecture:** K3s production cluster + Monitoring stack + AWS EC2 forensic system
-- **Live Applications:** LIMS (120+ samples/hour), Finance Trading, Pharma Manufacturing
-- **Zero-Downtime Deployments:** 2-replica high availability with ArgoCD GitOps
-- **Complete Observability:** Prometheus, Grafana, Loki with custom dashboards
-- **CI/CD Pipelines:** Jenkins automated builds with Docker registry
-- **Forensic Monitoring:** Unique compliance system applying DNA lab principles to DevOps
-
-## 🔬 My Unique Value Proposition
-
-**Forensic Mindset in DevOps:** Successfully applying forensic investigation principles to production infrastructure:
-
-- **Chain of Custody:** Implemented cryptographic audit trails for deployments
-- **Compliance Automation:** Built FDA/SOX/GMP monitoring with real-time scoring
-- **Evidence-Based Operations:** Every change tracked with immutable audit logs
-- **Regulated Industry Experience:** Deep understanding of audit requirements
-- **Business Alignment:** MBA background driving ROI-focused technical decisions
-
-## 📊 Featured Production Projects
-
-### 1. Laboratory Information Management System (LIMS)
-**Live at:** [lims.jagdevops.co.za](https://lims.jagdevops.co.za)
-
-Production DNA sample tracking system processing 120+ forensic samples/hour through 12-stage pipeline. Features automated workflow, real-time monitoring, PostgreSQL persistence, and Jenkins CI/CD.
-
-**Tech Stack:** React • Node.js • PostgreSQL • K3s • Docker • Jenkins
-
-### 2. Zero-Downtime Deployment Pipeline
-**Live at:** [finance.jagdevops.co.za](https://finance.jagdevops.co.za) | [pharma.jagdevops.co.za](https://pharma.jagdevops.co.za)
-
-Production GitOps implementation with 2-replica high availability. Demonstrated <60 second recovery from incidents. Finance trading and pharma manufacturing systems with ArgoCD automated sync.
-
-**Tech Stack:** Python • FastAPI • Flask • K3s • ArgoCD • PostgreSQL
-
-### 3. Digital Evidence Pipeline (DEP)
-**Running on:** AWS EC2
-
-Forensic-grade compliance monitoring applying DNA laboratory chain-of-custody principles to DevOps. Features cryptographic audit trails, FDA/SOX/GMP compliance scoring, and blockchain-style evidence collection.
-
-**Tech Stack:** Python • Docker • AWS • Cryptography • Prometheus
-
-## 🏗️ Infrastructure Architecture
-
-```
-Production (Server1)     Monitoring (Server2)      Forensic (AWS EC2)
-    K3s Cluster             Prometheus             Compliance Engine
-    Jenkins CI/CD           Grafana Dashboards     Audit Trail Generator
-    ArgoCD GitOps          Loki Log Aggregation   Evidence Collector
-    Docker Registry        Alertmanager
-    3 Live Apps
-```
-
-## 🌟 Demonstrated Capabilities
-- **Production Experience:** 3 live applications with real users
-- **High Availability:** Zero-downtime deployments with proven recovery
-- **Compliance Ready:** Forensic monitoring for regulated industries
-- **Full Stack:** Frontend (React), Backend (Node.js/Python), Infrastructure (K3s)
-- **Complete DevOps:** CI/CD, GitOps, IaC, Monitoring, Security
+[![Portfolio](https://img.shields.io/badge/Portfolio-jagdevops.co.za-000000?style=flat-square)](https://jagdevops.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jaime-gabriels-643132386)
 
 ---
 
-*"From analyzing DNA evidence to building resilient infrastructure - bringing forensic rigor to DevOps"*
+## About Me
 
-## 📫 Let's Connect:
-- 💼 **LinkedIn:** [www.linkedin.com/in/jaime-gabriels-643132386](https://www.linkedin.com/in/jaime-gabriels-643132386)
-- 🌐 **Portfolio:** [www.jagdevops.com](https://www.jagdevops.com)
-- 📧 **Email:** contact@jagdevops.com
-- 🔗 **Live Infrastructure:** [lims.jagdevops.co.za](https://lims.jagdevops.co.za) | [finance.jagdevops.co.za](https://finance.jagdevops.co.za) | [pharma.jagdevops.co.za](https://pharma.jagdevops.co.za)
+DevOps Engineer with 15+ years in forensic DNA analysis. I build and operate production Kubernetes infrastructure running live applications. My forensic background brings unique perspective on compliance, audit trails, and evidence integrity.
+
+Currently at **LabScientific DNA** while managing production DevOps infrastructure with 17 ArgoCD-managed applications.
+
+---
+
+## Production Infrastructure
+
+Running multi-server infrastructure with zero-downtime deployments:
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Server 1 (K3s Cluster)          Server 2 (Docker + Monitoring) │
+│  ├── ArgoCD (17 apps)            ├── Prometheus                 │
+│  ├── LIMS Application            ├── Grafana                    │
+│  ├── eShop (14 microservices)    ├── Loki                       │
+│  ├── Traefik Ingress             ├── HashiCorp Vault            │
+│  └── External Secrets            └── Forensic Collector         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Live Projects
+
+### DNA Analysis LIMS
+[![Live](https://img.shields.io/badge/Live-lims.jagdevops.co.za-16a766?style=flat-square)](https://lims.jagdevops.co.za)
+[![Repo](https://img.shields.io/badge/GitHub-JAG--LABSCIENTIFIC--DNA-181717?style=flat-square&logo=github)](https://github.com/GABRIELS562/JAG-LABSCIENTIFIC-DNA)
+
+Laboratory information management system for forensic DNA sample tracking. Full CI/CD with 6 GitHub Actions workflows, 3 environments, ArgoCD GitOps, and HPA autoscaling.
+
+`React` `Node.js` `PostgreSQL` `K3s` `GitHub Actions` `ArgoCD`
+
+### Cloud-Native eShop
+[![Live](https://img.shields.io/badge/Live-eshop.jagdevops.co.za-16a766?style=flat-square)](https://eshop.jagdevops.co.za)
+[![Repo](https://img.shields.io/badge/GitHub-eshop--platform--infra-181717?style=flat-square&logo=github)](https://github.com/GABRIELS562/eshop-platform-infra)
+
+14-service microservices e-commerce platform demonstrating polyglot architecture. Services built in Go, C#, Node.js, Python, and Java communicate via gRPC. Full observability with OpenTelemetry.
+
+`Kubernetes` `gRPC` `Go` `C#` `Python` `Redis` `RabbitMQ` `OpenTelemetry`
+
+### Forensic Evidence Collector
+[![Live](https://img.shields.io/badge/Live-dashboards.jagdevops.co.za-16a766?style=flat-square)](https://dashboards.jagdevops.co.za)
+[![Repo](https://img.shields.io/badge/GitHub-forensic--evidence--collector-181717?style=flat-square&logo=github)](https://github.com/GABRIELS562/forensic-evidence-collector)
+
+Compliance automation with tamper-evident audit trails. Implements blockchain-style SHA-256 hash chains for evidence integrity. 8,500+ evidence blocks with 100% chain integrity.
+
+`Python 3.11` `SQLite` `Docker` `Prometheus` `SHA-256`
+
+---
+
+## Technology Stack
+
+**Orchestration:** Kubernetes (K3s) • Docker • Helm • ArgoCD
+
+**CI/CD:** GitHub Actions • Terraform • Ansible
+
+**Observability:** Prometheus • Grafana • Loki • OpenTelemetry
+
+**Security:** HashiCorp Vault • Cloudflare Tunnels • Trivy • Network Policies
+
+**Languages:** Python • Go • Node.js • React • C#
+
+**Data:** PostgreSQL • Redis • RabbitMQ • SQLite
+
+---
+
+## Certifications
+
+| Certification | Status |
+|--------------|--------|
+| AWS Solutions Architect Associate | ✅ Certified |
+| HashiCorp Terraform Associate | ✅ Certified |
+| Certified Kubernetes Administrator (CKA) | 🔄 In Progress |
+| Certified Kubernetes Security Specialist (CKS) | 🔄 In Progress |
+
+---
+
+## Education
+
+- **MSc Business Leadership** — UNISA School of Business Leadership
+- **BSc Biotechnology**
+- **Software Development Bootcamp** — Completed
+
+---
+
+## What I Bring
+
+**Forensic Rigor:** 15+ years ensuring chain of custody and evidence integrity — now applied to infrastructure audit trails and compliance automation.
+
+**Production Experience:** Operating live applications with real users, not just lab projects.
+
+**Full Stack DevOps:** From React frontends to Kubernetes clusters, CI/CD pipelines to observability stacks.
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jagdevops.co.za-000000?style=for-the-badge)](https://jagdevops.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaime-gabriels-643132386)
+[![Email](https://img.shields.io/badge/Email-contact@jagdevops.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jagdevops.com)
