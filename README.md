@@ -20,6 +20,8 @@ Forensic scientist turned infrastructure engineer. Background in regulated labor
 
 ---
 
-**Certs:** AWS SAA · Terraform Associate · CKA
+[![AWS](https://img.shields.io/badge/AWS_SAA-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
+[![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
 
 **Stack:** Kubernetes · ArgoCD · Docker · GitHub Actions · Terraform · Prometheus · Grafana · Vault
