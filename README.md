@@ -15,7 +15,6 @@ Forensic scientist turned infrastructure engineer. Background in regulated labor
 [![AWS GenAI](https://img.shields.io/badge/AWS_GenAI-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
 [![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
-[![CKS](https://img.shields.io/badge/CKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cks/)
 [![PCAP](https://img.shields.io/badge/PCAP_Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://pythoninstitute.org/pcap)
 [![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
